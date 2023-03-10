@@ -29,3 +29,6 @@
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/happylose/lord)
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=happylose&theme=radical&layout=compact&langs_count=6&hide_border=true)
+
+<a href="https://t.me/tcbry"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
