@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/89135083/194812319-b3630f42-576c-4c58-841c-0a6d9e054c78.svg" alt="Just For Fun :)"></a>
 
 </p><br>
-  <a href="https://t.me/Tcbry"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/tcbry"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
   
 ## 🔥 Some Of My Github Stats
@@ -22,12 +22,15 @@
 
 ## 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)
+![PYTHON](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Profile Views
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/happylose/lord)
